@@ -4,11 +4,8 @@
 <a href="[linkedin-url](https://www.linkedin.com/in/yurkevichk/)">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-![codewars](https://www.codewars.com/users/KonstantsinYurkevich) 
 
 [![codewars](https://www.codewars.com/users/KonstantsinYurkevich/badges/micro)](https://www.codewars.com/users/KonstantsinYurkevich) 
-
-![Codewars](https://github.r2v.ch/codewars?user=KonstantsinYurkevich)
 
 <!--
 **KonstantsinYurkevich/KonstantsinYurkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
