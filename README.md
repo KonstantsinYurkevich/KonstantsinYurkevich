@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saira+Condensed&weight=3000&size=22&pause=1000&color=1DBCF7&background=ACFF3200&multiline=true&width=800&height=100&lines=Hi++there;My+name+is+Konstantin;I'm++QA+Automation+Engineer;(%5E-%5E))](https://git.io/typing-svg)
 
 
-<a href="[https://www.linkedin.com/in/yurkevichk/]">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yurkevichk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 [![codewars](https://www.codewars.com/users/KonstantsinYurkevich/badges/micro)](https://www.codewars.com/users/KonstantsinYurkevich) 
 
