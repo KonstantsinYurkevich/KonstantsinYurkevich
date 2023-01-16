@@ -4,7 +4,8 @@
 <a href="[linkedin-url](https://www.linkedin.com/in/yurkevichk/)">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-[![codewars](https://www.codewars.com/users/KonstantsinYurkevich/badges/small)](https://www.codewars.com/users/KonstantsinYurkevich) 
+![codewars](https://www.codewars.com/users/KonstantsinYurkevich/badges/small)(https://www.codewars.com/users/KonstantsinYurkevich) 
+
 ![Codewars](https://github.r2v.ch/codewars?user=KonstantsinYurkevich)
 
 <!--
