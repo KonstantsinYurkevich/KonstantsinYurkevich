@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saira+Condensed&weight=3000&size=22&pause=1000&color=112EF7&background=ACFF3200&center=true&multiline=true&width=800&height=100&lines=Hi++there;My+name+is+Konstantin;I'm++QA+Automation+Engineer;(%5E-%5E))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saira+Condensed&weight=3000&size=22&pause=1000&color=1DBCF7&background=ACFF3200&multiline=true&width=800&height=100&lines=Hi++there;My+name+is+Konstantin;I'm++QA+Automation+Engineer;(%5E-%5E))](https://git.io/typing-svg)
 
 ![Codewars](https://github.r2v.ch/codewars?user=KonstantsinYurkevich)
 
